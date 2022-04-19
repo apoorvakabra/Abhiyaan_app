@@ -24,6 +24,8 @@ W - Attendance Shortage
 1 - Doing
 
 Online
+https://www.youtube.com/watch?v=Qk4vLFhvfbI&list=PLLSegLrePWgIbIrA4iehUQ-impvIXdd9Q
+https://automaticaddison.com/how-to-create-and-execute-ros-launch-files/
 CS20SI
 Andrew NG Deeplearning.ai
 David Silver RL
